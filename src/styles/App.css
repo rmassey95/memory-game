@@ -1,0 +1,12 @@
+body {
+  margin: 30px;
+  background-color: #1a1a1a;
+}
+
+.App {
+  width: auto;
+}
+
+h1 {
+  color: rgb(224, 224, 224);
+}

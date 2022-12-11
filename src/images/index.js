@@ -1,0 +1,12 @@
+export const mov1917 = require("./1917.jpg");
+export const endgame = require("./avengers-endgame.jpg");
+export const et = require("./et.jpg");
+export const hangover = require("./hangover.jpg");
+export const hulk = require("./hulk.jpg");
+export const ironMan = require("./iron-man.jpg");
+export const joker = require("./joker.jpg");
+export const jurassicPark = require("./jurassic-park.jpg");
+export const lotr = require("./lotr.jpg");
+export const shining = require("./shining.jpg");
+export const thor = require("./thor.jpg");
+export const titanic = require("./titanic.jpg");
